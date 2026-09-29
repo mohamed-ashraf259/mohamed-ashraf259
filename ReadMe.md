@@ -1,27 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML models and predictive analytics solutions<br>🧑‍🤝‍🧑 I’m looking to collaborate on open-source AI, Machine Learning, and Data Science projects<br>🤝 I’m looking for help with scaling deep learning models and MLOps deployment<br>🌱 I’m currently learning Generative AI, Advanced Deep Learning, and Cloud MLOps<br>💬 Ask me about Artificial Intelligence, Machine Learning, Python, and Model Optimization<br>⚡ Fun fact I believe AI is just engineering with a creative brain
+<h1 align="center">Mohamed Ashraf</h1>
 
+<p align="center">
+  <b>AI/ML Engineer · Embedded Systems Background</b><br/>
+  Computer vision, ML pipelines, and cloud MLOps, built on a foundation of robotics and hardware.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/znegga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamedashraf09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.ashraf.sayed10@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohamed-ashraf259&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mohamed-ashraf259&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamed-ashraf259&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohamed-ashraf259&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohamed-ashraf259&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/mohamedashraf09"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohamed.ashraf.sayed10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/znegga"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohamed-ashraf259&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a Mechatronics Engineering student (class of 2028) and IT Engineer who moved from embedded systems, robotics, and PCB design into applied machine learning. I like problems where software has to make sense of the physical world.
+
+- 🔭 Building **Bordexa**, my graduation project: hand-drawn circuit schematics to KiCad files using computer vision
+- 🌱 Learning: Generative AI, advanced deep learning, cloud MLOps
+- 🤝 Looking for: collaborators on open-source AI/ML projects, and input on scaling models and MLOps deployment
+- 💬 Ask me about: Python, machine learning, model optimization, embedded systems
+
+---
+
+## Featured Project
+
+### 🔌 Bordexa: Hand-Drawn Schematic to Digital Circuit
+
+An end-to-end system that reads a photo of a hand-drawn circuit and produces an editable KiCad schematic.
+
+```mermaid
+flowchart LR
+    A[Upload image] --> B[OpenCV normalization]
+    B --> C[YOLOv8 component detection]
+    C --> D[Component masking]
+    D --> E[Skeletonization + Hough lines]
+    E --> F[NetworkX netlist graph]
+    F --> G[KiCad export]
+```
+
+- **Detection:** YOLOv8 with transfer learning from a public circuit-symbol dataset, fine-tuned on real hand-drawn samples
+- **Topology:** wire and junction extraction with OpenCV, converted into a netlist graph with NetworkX
+- **Validation:** graph checks for short circuits and open connections
+- **MLOps:** AWS (S3, SageMaker, Lambda) with a feedback loop that feeds user corrections into scheduled re-training
+- **Role:** team leader of a six-person team
+
+`Python` `YOLOv8` `OpenCV` `NetworkX` `AWS SageMaker` `Docker` `KiCad`
+
+> 📎 *Repository link coming soon.*
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **ML / Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) |
+| **Cloud & MLOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+| **Hardware** | Embedded systems · Robotics · PCB design (KiCad) |
+
+---
+
+## Focus Areas
+
+- **Computer vision:** object detection, image preprocessing, structure extraction
+- **ML engineering:** training, evaluation, model optimization, active learning
+- **Cloud MLOps:** containerized inference, scheduled pipelines, drift monitoring
+- **Data engineering:** AWS-based pipelines, orchestration, streaming basics
+
+---
+
+## Education & Training
+
+- 🎓 **B.Sc. Mechatronics Engineering**, October 6 University (expected 2028)
+- 📚 **Digital Egypt Pioneers Initiative (DEPI):** AWS Data Engineering, ML Foundations, NLP, Generative AI
+- 💼 **IT Engineer**, Dar El Oroba Hospital
+
+---
+
+<p align="center">
+  <i>"AI is just engineering with a creative brain."</i>
+</p>
+
+<!-- Add the GitHub stats cards back once there is meaningful public activity. -->
